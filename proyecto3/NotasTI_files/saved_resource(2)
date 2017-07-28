@@ -1,0 +1,15 @@
+/**/ WPCOMSharing.update_facebook_count({
+   "http://notasti.com/fuentes-de-inspiracion-para-presentaciones/": {
+      "share": {
+         "comment_count": 0,
+         "share_count": 0
+      },
+      "og_object": {
+         "id": "1556198917788343",
+         "title": "Fuentes de Inspiracion para Presentaciones \u2013 Notas TI",
+         "type": "website",
+         "updated_time": "2017-06-06T02:46:07+0000"
+      },
+      "id": "http://notasti.com/fuentes-de-inspiracion-para-presentaciones/"
+   }
+});
