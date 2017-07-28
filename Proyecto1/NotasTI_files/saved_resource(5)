@@ -1,0 +1,16 @@
+/**/ WPCOMSharing.update_facebook_count({
+   "http://notasti.com/los-10-casos-de-estudio-de-harvard-business-debes-leer/": {
+      "share": {
+         "comment_count": 0,
+         "share_count": 3
+      },
+      "og_object": {
+         "id": "1138759922895843",
+         "description": "Si bien conocer c\u00f3mo se crearon empresas tradicionales como General Electric o Procter & Gamble debe estar en un curr\u00edculo de cualquier estudiante, nuevos casos de estudio han surgido de movidas que est\u00e1n relacionadas principalmente con las nuevas tecnolog\u00edas o con ciertas \u00e1reas que no eran vist",
+         "title": "Los 10 casos de estudio de Harvard Business debes leer \u2013 Notas TI",
+         "type": "website",
+         "updated_time": "2017-07-11T19:29:36+0000"
+      },
+      "id": "http://notasti.com/los-10-casos-de-estudio-de-harvard-business-debes-leer/"
+   }
+});

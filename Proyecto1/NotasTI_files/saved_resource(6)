@@ -1,0 +1,16 @@
+/**/ WPCOMSharing.update_facebook_count({
+   "http://notasti.com/impacto-del-ingeniero-industrial-en-la-vida-cotidiana/": {
+      "share": {
+         "comment_count": 0,
+         "share_count": 0
+      },
+      "og_object": {
+         "id": "1435704759832644",
+         "description": "En el siguiente video podras ver como impacta el ingeniero Industrial en la vida cotidiana",
+         "title": "Impacto del Ingeniero Industrial en la vida cotidiana \u2013 Notas TI",
+         "type": "website",
+         "updated_time": "2017-07-22T13:23:43+0000"
+      },
+      "id": "http://notasti.com/impacto-del-ingeniero-industrial-en-la-vida-cotidiana/"
+   }
+});
